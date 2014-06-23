@@ -1,2 +1,4 @@
-google-web-components
-=====================
+core-elements
+=========
+
+See //polymer.github.io/core-elements

@@ -1,0 +1,16 @@
+{
+  "name": "google-web-components",
+  "private": true,
+  "dependencies": {
+    "google-hangout-button": "GoogleWebComponents/google-hangout-button",
+    "google-gcloud": "GoogleWebComponents/google-gcloud",
+    "google-signin": "GoogleWebComponents/google-signin",
+    "google-sheets": "GoogleWebComponents/google-sheets",
+    "google-calendar": "GoogleWebComponents/google-calendar",
+    "google-chart": "GoogleWebComponents/google-chart",
+    "google-url-shortener": "GoogleWebComponents/google-url-shortener",
+    "google-streetview-pano": "GoogleWebComponents/google-streetview-pano",
+    "google-drive": "GoogleWebComponents/google-drive",
+    "google-youtube": "GoogleWebComponents/google-youtube"
+  }
+}
