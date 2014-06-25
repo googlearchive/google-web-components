@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>Google Web Components Kit</title>
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro:400,600">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto|Source+Code+Pro:400,600">
   <link rel="stylesheet" href="css/app.css">
   <script src="../platform/platform.js"></script>
   <link rel="import" href="../core-icons/core-icons.html">
@@ -82,7 +82,7 @@ var template = document.querySelector('#t');
 template.elements = ELEMENTS;
 
 template.getHost = function(org) {
-  return 'http://' + org + '.github.io';
+  return '//' + org + '.github.io';
 }
 
 template.loadDemo = function(e, detail, sender) {
